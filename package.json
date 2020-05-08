@@ -1,5 +1,5 @@
 {
-  "name": "angular-perfect-scrollbar",
+  "name": "ng-perfect-scrollbar",
   "version": "1.0.1",
   "description": "Minimalistic but perfect custom scrollbar plugin for Angularjs",
   "main": "index.js",
