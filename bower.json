@@ -1,11 +1,11 @@
 {
   "name": "perfect-scrollbar",
-  "version": "0.6.14",
-  "homepage": "http://noraesae.github.io/perfect-scrollbar/",
+  "version": "0.1.1",
+  "homepage": "https://github.com/ekiziltas/perfect-scrollbar",
   "authors": [
-    "Hyunje Alex Jun <me@noraesae.net>"
+    "Eray KIZILTAS <eray@visionf.com.tr>"
   ],
-  "description": "Minimalistic but perfect custom scrollbar plugin",
+  "description": "Minimalistic but perfect custom scrollbar plugin for Angularjs",
   "main": [
     "css/perfect-scrollbar.css",
     "js/perfect-scrollbar.js"

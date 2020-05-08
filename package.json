@@ -1,0 +1,9 @@
+{
+  "name": "perfect-scrollbar",
+  "version": "1.0.0",
+  "description": "Minimalistic but perfect custom scrollbar plugin for Angularjs",
+  "main": "index.js",
+  "repository": "https://github.com/ekiziltas/perfect-scrollbar.git",
+  "author": "Eray KIZILTAŞ <eray@visionf.com.tr>",
+  "license": "MIT"
+}
